@@ -1,2 +1,7 @@
 hi good morning
+ HEAD
 hi
+
+have a nice day
+hello
+ feature-branch
